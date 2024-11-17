@@ -179,4 +179,9 @@ awards:
 
 ## About Me
 
-I AM CSE STUDENT
+I am Abu Said Mohammad Readwanul, a Computer Science and Engineering (CSE)
+student at Jahangirnagar University. I completed my SSC in 2018 and HSC in 2020.
+I have a strong interest in web development and problem-solving, and I am
+actively working on improving my skills in these areas. Additionally, I am
+currently exploring opportunities to develop academic and personal projects,
+including creating a portfolio website and solving computational challenges.
