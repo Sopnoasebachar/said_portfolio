@@ -1,19 +1,29 @@
 ---
-title: Example Talk
+title: Portfolio Website
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+# event: Hugo Blox Builder Conference
+# event_url: https://sopnoasebachar.github.io/portfolio_website/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# location: Hugo Blox Builder HQ
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary:
+  A portfolio is a collection of your work, projects, and accomplishments that
+  highlights your skills and expertise. It serves as a personal showcase for
+  potential employers, clients, or collaborators, providing them with a glimpse
+  of your abilities and experience. A well-structured portfolio includes
+  sections such as an introduction, about you, your skillset, detailed
+  descriptions of your projects, and contact information.
+# abstract:
+#   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+#   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+#   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+#   urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,7 +43,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption:
+    'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
@@ -41,9 +52,9 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://github.com/Sopnoasebachar/portfolio_website/settings'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
+url_slides: 'https://sopnoasebachar.github.io/portfolio_website/'
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
@@ -51,7 +62,7 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -62,14 +73,19 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+{{% callout note %}} Click on the **Slides** button above to view the built-in
+slides feature. {{% /callout %}}
 
 Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+<!-- - **Create** slides using Hugo Blox Builder's
+  [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and
+  link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides`
+  parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page
+  using [shortcodes](https://docs.hugoblox.com/reference/markdown/). -->
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including
+[page elements](https://docs.hugoblox.com/reference/markdown/) such as image
+galleries, can be added to the body of this page.
