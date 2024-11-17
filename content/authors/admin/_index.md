@@ -53,75 +53,70 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: SSC
+    institution: Islami Adarsha Biddanikaton
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      Passing the SSC exam in 2018 with a GPA of 5 from Islami Adarsha Biddanikaton was a significant achievement. It demonstrated my strong academic foundation and commitment to excellence. The rigorous study and focus on every subject allowed me to perform at my best, earning the highest possible grade.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: HSC
+    institution: Cantonment Public School and College
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 5.0/5.0
+
+      Passing the HSC exam in 2020 from Cantonment Public School and College, Lalmonirhat, was another milestone in my academic journey. Achieving a strong result in this important exam marked my dedication and hard work throughout the years of study. It was a challenging period due to the global situation, but it taught me how to adapt and stay focused on my goals.
+  - area: BSc
+    institution: Jahangirnagar University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      As a CSE student at Jahangirnagar University, I am pursuing a field that aligns with my passion for technology and problem-solving. The university's comprehensive curriculum and vibrant academic environment are helping me build a strong foundation in computer science.
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: JAVASCRITPT
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: JAVA
         description: ''
         percent: 40
         icon: circle-stack
@@ -143,11 +138,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: HTML
     percent: 100
-  - name: Chinese
+  - name: CSS
     percent: 75
-  - name: Portuguese
+  - name: JAVASCRIPT
     percent: 25
 
 # Awards.
@@ -155,13 +150,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Free Code Camp Certificate
+    url: https://github.com/Sopnoasebachar/free_code_camp/blob/main/Screenshot%202024-11-11%20001833.png
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Earning the FreeCodeCamp certificate has been an invaluable experience that significantly enhanced my coding skills. Throughout the process, I developed a deep understanding of web development technologies like HTML, CSS, JavaScript, and responsive design principles. I was able to apply this knowledge to create real-world projects that not only tested my abilities but also helped me build a strong portfolio. The coding challenges sharpened my problem-solving skills, and each completed project gave me a sense of accomplishment, boosting my confidence in my technical abilities.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
