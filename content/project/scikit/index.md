@@ -1,16 +1,15 @@
 ---
-title: Home Page Prothom Alo
+title: JU WEBSite
 date: 2023-10-26
-external_link: https://sopnoasebachar.github.io/ProthomAlo_HomePage/
+external_link: https://sopnoasebachar.github.io/ju_website/
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Creating a Prothom Alo tribute page involves designing a webpage that highlights
-the key aspects of the prominent Bangladeshi news outlet, Prothom Alo. The page
-can feature sections about its history, mission, and significant contributions
-to journalism in Bangladesh.
+Jahangirnagar University (JU) is a leading public university in Bangladesh,
+known for its lush green campus and academic excellence. It was established in
+1970 and is located in Savar, on the outskirts of Dhaka
 
-<!--more-->
+more

@@ -18,4 +18,4 @@ alternating turns between players. By working on this project, you can reinforce
 concepts like event handling, DOM manipulation, and conditional logic while
 building an interactive game.
 
-<!--more-->
+more

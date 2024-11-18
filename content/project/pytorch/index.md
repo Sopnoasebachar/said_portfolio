@@ -14,4 +14,4 @@ the layout, including buttons for numbers, operators, and the display screen.
 CSS is utilized to style the buttons, layout, and overall design, ensuring a
 clean and user-friendly interface
 
-<!--more-->
+more

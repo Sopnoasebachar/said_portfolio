@@ -55,18 +55,21 @@ galleries, can be added to the body of this page.&lt;/p&gt;
 apply web development skills in a practical project. HTML is used to structure
 the layout, including buttons for numbers, operators, and the display screen.
 CSS is utilized to style the buttons, layout, and overall design, ensuring a
-clean and user-friendly interface&lt;/p&gt;</description>
+clean and user-friendly interface&lt;/p&gt;
+&lt;p&gt;more&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Home Page Prothom Alo</title>
+      <title>JU WEBSite</title>
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;Creating a Prothom Alo tribute page involves designing a webpage that highlights
-the key aspects of the prominent Bangladeshi news outlet, Prothom Alo. The page
-can feature sections about its history, mission, and significant contributions
-to journalism in Bangladesh.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Jahangirnagar University (JU) is a leading public university in Bangladesh,
+known for its lush green campus and academic excellence. It was established in
+1970 and is located in Savar, on the outskirts of Dhaka&lt;/p&gt;
+&lt;p&gt;more&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -82,7 +85,9 @@ colors and animations for player turns and win conditions. JavaScript handles
 the game logic, including detecting player moves, checking for a winner, and
 alternating turns between players. By working on this project, you can reinforce
 concepts like event handling, DOM manipulation, and conditional logic while
-building an interactive game.&lt;/p&gt;</description>
+building an interactive game.&lt;/p&gt;
+&lt;p&gt;more&lt;/p&gt;
+</description>
     </item>
     
     <item>

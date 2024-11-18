@@ -56,7 +56,7 @@ education:
   - area: SSC
     institution: Islami Adarsha Biddanikaton
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2018-02-12
     summary: |
       Passing the SSC exam in 2018 with a GPA of 5 from Islami Adarsha Biddanikaton was a significant achievement. It demonstrated my strong academic foundation and commitment to excellence. The rigorous study and focus on every subject allowed me to perform at my best, earning the highest possible grade.
     # button:
@@ -64,18 +64,18 @@ education:
     #   url: 'https://example.com'
   - area: HSC
     institution: Cantonment Public School and College
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-02-01
+    date_end: 2020-05-30
     summary: |
       GPA: 5.0/5.0
 
       Passing the HSC exam in 2020 from Cantonment Public School and College, Lalmonirhat, was another milestone in my academic journey. Achieving a strong result in this important exam marked my dedication and hard work throughout the years of study. It was a challenging period due to the global situation, but it taught me how to adapt and stay focused on my goals.
-  - area: BSc
+  - area: BSC
     institution: Jahangirnagar University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end:
     summary: |
-      GPA: 3.8/4.0
+
 
 
       As a CSE student at Jahangirnagar University, I am pursuing a field that aligns with my passion for technology and problem-solving. The university's comprehensive curriculum and vibrant academic environment are helping me build a strong foundation in computer science.
@@ -152,7 +152,7 @@ languages:
 awards:
   - title: Free Code Camp Certificate
     url: https://github.com/Sopnoasebachar/free_code_camp/blob/main/Screenshot%202024-11-11%20001833.png
-    date: '2023-11-25'
+    date: '2024-08-19'
     awarder: Coursera
     icon: coursera
     summary: |

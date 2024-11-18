@@ -8,9 +8,7 @@
       "body",
       "button",
       "circle",
-      "code",
       "div",
-      "em",
       "footer",
       "g",
       "h1",
@@ -499,6 +497,7 @@
     "ids": [
       "Layer_1",
       "about-me",
+      "gpa-3840",
       "hide-button",
       "moon",
       "nav-menu",
